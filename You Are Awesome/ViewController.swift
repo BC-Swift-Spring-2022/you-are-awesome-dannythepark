@@ -1,7 +1,7 @@
 //
 //  ViewController.swift
 //  You Are Awesome
-//  Directory Update ////////////
+//  Directory Update //////////
 //
 //  Created by Danny Park on 1/23/22. UPDATE
 //
@@ -14,6 +14,7 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        messageLabel.text = ""
     }
 
 
